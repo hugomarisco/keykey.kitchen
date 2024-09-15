@@ -42,4 +42,4 @@ steps:
       golden brown.
   - description: Remove, drain, and serve warm.
 ---
-> Corn fritter (bakwan jagung) is a tasty snack with Spanish and Portuguese influences. Corn, native to the Americas, was introduced to Indonesia by the Portuguese. Thanks to Indonesia’s ideal growing conditions, corn became widely harvested. One of the easiest and most delightful ways to enjoy corn is through these crispy fritters.
+> Corn fritter is a tasty snack with Spanish and Portuguese influences. Corn, native to the Americas, was introduced to Indonesia by the Portuguese. Thanks to Indonesia’s ideal growing conditions, corn became widely harvested. One of the easiest and most delightful ways to enjoy corn is through these crispy fritters.

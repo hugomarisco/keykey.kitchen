@@ -44,4 +44,4 @@ steps:
       coklat keemasan.
   - description: Angkat, tiriskan, dan masakan siap disajikan.
 ---
-> Perkedel jagung, atau ‘bakwan jagung,’ adalah camilan lezat yang terinspirasi dari pengaruh kuliner Spanyol dan Portugis. Jagung, yang berasal dari Amerika, diperkenalkan ke Indonesia oleh bangsa Portugis. Dengan kondisi tanah Indonesia yang sangat cocok, jagung menjadi tanaman yang banyak dibudidayakan. Salah satu cara termudah dan paling menggugah selera untuk menikmati jagung adalah dengan membuat perkedel jagung yang renyah ini.
+> Perkedel jagung adalah camilan lezat yang terinspirasi dari pengaruh kuliner Spanyol dan Portugis. Jagung, yang berasal dari Amerika, diperkenalkan ke Indonesia oleh bangsa Portugis. Dengan kondisi tanah Indonesia yang sangat cocok, jagung menjadi tanaman yang banyak dibudidayakan. Salah satu cara termudah dan paling menggugah selera untuk menikmati jagung adalah dengan membuat perkedel jagung yang renyah ini.
