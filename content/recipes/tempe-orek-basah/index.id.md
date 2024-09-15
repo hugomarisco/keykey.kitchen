@@ -14,9 +14,9 @@ ingredients:
     amount: "4 buah "
   - name: cabai merah besar → banyaknya sesuaikan dengan selera
     amount: 1 buah
-  - name: Daun salam
+  - name: Daun salam → dirobek pinggirannya
     amount: 2 lembar
-  - name: Daun jeruk
+  - name: Daun jeruk → dirobek pinggirannya
     amount: 2 lembar
   - name: Asam jawa → campur dengan 4 sendok makan air panas, saring, ambil airnya.
     amount: "1 sendok teh "
