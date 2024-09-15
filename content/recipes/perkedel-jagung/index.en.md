@@ -4,7 +4,7 @@ date: 2024-09-15T22:57:00+08:00
 ingredients:
   - amount: corn → kernels removed, half finely blended
     name: 2 ears
-  - amount: 6 bulbs
+  - amount: "6"
     name: shallots → finely blended
   - amount: garlic → finely blended
     name: 3 cloves
