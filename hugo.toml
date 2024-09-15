@@ -1,0 +1,14 @@
+baseURL = 'https://keykey.kitchen/'
+languageCode = 'en-us'
+title = 'KeyKey Kitchen'
+theme = 'ananke'
+defaultContentLanguage = 'id'
+[languages]
+[languages.id]
+languageCode = 'id'
+languageName = 'Bahasa Indonesia'
+weight = 1
+[languages.en]
+languageCode = 'en'
+languageName = 'English'
+weight = 2

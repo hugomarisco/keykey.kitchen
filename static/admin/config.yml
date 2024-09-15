@@ -1,0 +1,61 @@
+# local_backend: true
+backend:
+  name: git-gateway
+  branch: main
+site_url: https://keykey.kitchen
+media_folder: "static/images"
+i18n:
+  structure: multiple_files
+  locales: [id, en]
+  default_locale: id
+collections:
+  - name: "recipe"
+    label: "Recipe"
+    folder: "content/recipes"
+    path: "{{slug}}/index"
+    create: true
+    i18n: true
+    fields:
+      - label: "Title"
+        name: "title"
+        i18n: true
+        widget: "string"
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+        default: "{{now}}"
+        format: ""
+      - label: "Main Image"
+        name: "image"
+        widget: "image"
+      - label: "Body"
+        name: "body"
+        i18n: true
+        widget: "markdown"
+      - label: "Tags"
+        name: "tags"
+        i18n: true
+        widget: "list"
+      - label: "Ingredients"
+        name: "ingredients"
+        i18n: true
+        widget: "list"
+        fields:
+          - label: "Name"
+            name: "name"
+            widget: "string"
+          - label: "Quantity"
+            name: "amount"
+            widget: "string"
+      - label: "Steps"
+        name: "steps"
+        i18n: true
+        widget: "list"
+        fields:
+          - label: "Description"
+            name: "description"
+            widget: "string"
+          - label: "Image"
+            name: "image"
+            widget: "image"
+            required: false
