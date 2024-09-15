@@ -36,12 +36,16 @@ ingredients:
 steps:
   - description: Campurkan semua bahan kecuali tepung terigu, tepung beras dan air
       di dalam wadah. Aduk merata.
+    image: tambahakan-telur.jpg
   - description: Masukkan tepung terigu dan tepung beras, aduk kembali hingga semua
       tercampur rata.
+    image: campur-semua-bahan.jpg
   - description: Kemudian masukkan air sedikit demi sedikit sambil diaduk hingga
       tidak ada adonan yang menggumpal.
   - description: Panaskan minyak goreng dan goreng adonan perkedel jagung hingga
       coklat keemasan.
+    image: goreng.jpg
   - description: Angkat, tiriskan, dan masakan siap disajikan.
+    image: angkat-dan-sajikan.jpg
 ---
 > Perkedel jagung adalah camilan lezat yang terinspirasi dari pengaruh kuliner Spanyol dan Portugis. Jagung, yang berasal dari Amerika, diperkenalkan ke Indonesia oleh bangsa Portugis. Dengan kondisi tanah Indonesia yang sangat cocok, jagung menjadi tanaman yang banyak dibudidayakan. Salah satu cara termudah dan paling menggugah selera untuk menikmati jagung adalah dengan membuat perkedel jagung yang renyah ini.
