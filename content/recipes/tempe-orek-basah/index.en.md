@@ -16,7 +16,7 @@ ingredients:
     amount: "2"
   - name: Kaffir lime leaves → tear the edges to release more aroma
     amount: "2"
-  - name: Tamarind paste → mix with 4 tablespoons hot water, strain, and use the
+  - name: Tamarind pulp → mix with 4 tablespoons hot water, strain, and use the
       liquid
     amount: 1 teaspoon
   - name: Palm sugar
