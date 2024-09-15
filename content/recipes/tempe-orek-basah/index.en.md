@@ -12,9 +12,9 @@ ingredients:
     amount: "4"
   - amount: "1"
     name: "Large Red Chili → adjust the amount to taste "
-  - name: Bay Leaves → tear the edges to release flavor
+  - name: Bay Leaves → tear the edges to release more aroma
     amount: "2"
-  - name: Kaffir lime leaves → tear the edges to release flavor
+  - name: Kaffir lime leaves → tear the edges to release more aroma
     amount: "2"
   - name: Tamarind paste → mix with 4 tablespoons hot water, strain, and use the
       liquid
