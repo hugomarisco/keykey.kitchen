@@ -42,14 +42,17 @@ steps:
   - description: Iris halus bawang merah, bawang putih, cabai rawit merah, cabe
       merah besar. Sisihkan.
   - description: Iris-iris tempe sesuai selera, lalu goreng hingga matang. Angkat, tiriskan.
+    image: tempe-selesai-digoreng.jpg
   - description: Tumis bawang merah, bawang putih, daun salam dan daun jeruk hingga wangi.
   - description: Masukkan air, air asam jawa, gula aren, kecap manis, kecap asin,
       dan saus tiram. Aduk dan masak hingga air mendidih.
   - description: Setelah mendidih masukkan tempe yang sudah digoreng. Masak hingga
       air menyusut dan tersisah sedikit +/- 50 ml (sambil sesekali diaduk-aduk
       dalam prosesnya)
+    image: masak-tempe.jpg
   - description: Kemudian masukkan irisan cabai rawit merah dan cabai merah besar
       dan kaldu bubuk. Masak hingga air menyusut habis.
+    image: masukkan-cabe.jpg
   - description: Taburkan biji wijen, aduk dan matikan api.
   - description: Masakan siap dihidangkan.
 ---

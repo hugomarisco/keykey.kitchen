@@ -41,14 +41,17 @@ steps:
   - description: Finely slice the red shallots, garlic, small red chilies, and large
       red chili. Set aside.
   - description: Slice the tempe as desired and fry until golden brown. Remove and drain.
+    image: tempe-selesai-digoreng.jpg
   - description: In a pan, sauté the red shallots, garlic, bay leaves, and kaffir
       lime leaves until fragrant.
   - description: Add water, tamarind liquid, palm sugar, sweet soy sauce, soy sauce,
       and oyster sauce. Stir and bring to a boil.
   - description: Once boiling, add the fried tempe. Cook until the liquid reduces to
       about 50 ml, stirring occasionally.
+    image: masak-tempe.jpg
   - description: Add the sliced small red chilies, large red chili, and bouillon
       powder (if using). Cook until the liquid evaporates completely.
+    image: masukkan-cabe.jpg
   - description: Sprinkle with toasted sesame seeds if desired, stir, and turn off the heat.
   - description: Serve and enjoy!
 ---
