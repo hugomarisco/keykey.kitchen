@@ -5,7 +5,7 @@ ingredients:
   - name: Tempe
     amount: 1 block
   - name: Shallots
-    amount: 4 bulbs
+    amount: "4"
   - name: Garlic
     amount: 2 cloves
   - name: "Bird's eye chilies → adjust the amount to taste "
