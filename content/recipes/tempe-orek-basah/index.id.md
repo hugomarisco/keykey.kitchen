@@ -53,4 +53,4 @@ steps:
   - description: Taburkan biji wijen, aduk dan matikan api.
   - description: Masakan siap dihidangkan.
 ---
-> Tempe Orek adalah hidangan khas Indonesia dari Jawa, di mana tempe dipotong dadu atau diiris dan dimasak dengan campuran gula aren dan asam jawa yang khas. Ini adalah hidangan klasik yang penuh rasa dan mencerminkan kelezatan masakan tradisional Jawa.
+> Tempe Orek adalah hidangan khas Indonesia dari Jawa, di mana tempe dipotong dadu atau diiris dan dimasak dengan campuran gula aren, kecap manis, dan asam jawa yang khas. Ini adalah hidangan klasik yang penuh rasa dan mencerminkan kelezatan masakan tradisional Jawa.

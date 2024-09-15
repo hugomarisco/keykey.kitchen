@@ -52,4 +52,4 @@ steps:
   - description: Sprinkle with toasted sesame seeds if desired, stir, and turn off the heat.
   - description: Serve and enjoy!
 ---
-> Tempe Orek is a beloved Indonesian dish from Java, where tempe is diced or sliced and cooked with a unique blend of palm sugar and tamarind. It’s a flavorful, savory classic that captures the heart of traditional Javanese cuisine.
+> Tempe Orek is a beloved Indonesian dish from Java, where tempe is diced or sliced and cooked with a unique blend of palm sugar, Indonesian sweet soy sauce (kecap manis), and tamarind. It’s a flavorful, savory classic that captures the heart of traditional Javanese cuisine.
