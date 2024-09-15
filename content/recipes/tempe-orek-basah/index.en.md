@@ -47,8 +47,8 @@ steps:
       and oyster sauce. Stir and bring to a boil.
   - description: Once boiling, add the fried tempe. Cook until the liquid reduces to
       about 50 ml, stirring occasionally.
-  - description: Add the sliced small red chilies, large red chili, and chicken
-      bouillon (if using). Cook until the liquid evaporates completely.
+  - description: Add the sliced small red chilies, large red chili, and bouillon
+      powder (if using). Cook until the liquid evaporates completely.
   - description: Sprinkle with toasted sesame seeds if desired, stir, and turn off the heat.
   - description: Serve and enjoy!
 ---
