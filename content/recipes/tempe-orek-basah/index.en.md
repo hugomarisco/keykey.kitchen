@@ -8,10 +8,10 @@ ingredients:
     amount: 4 bulbs
   - name: Garlic
     amount: 2 cloves
-  - name: Bird's eye chilies → sliced (adjust to taste)
+  - name: "Bird's eye chilies → adjust the amount to taste "
     amount: "4"
   - amount: "1"
-    name: Large Red Chili
+    name: "Large Red Chili → adjust the amount to taste "
   - name: Bay Leaves → tear the edges to release flavor
     amount: "2"
   - name: Kaffir lime leaves → tear the edges to release flavor

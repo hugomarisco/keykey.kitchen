@@ -10,9 +10,9 @@ ingredients:
     amount: "4"
   - name: Bawang putih
     amount: 2 buah
-  - name: Cabai rawit merah
+  - name: Cabai rawit merah → banyaknya sesuaikan dengan selera
     amount: "4 buah "
-  - name: cabai merah besar
+  - name: cabai merah besar → banyaknya sesuaikan dengan selera
     amount: 1 buah
   - name: Daun salam
     amount: 2 lembar
