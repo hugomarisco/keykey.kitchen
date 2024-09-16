@@ -37,9 +37,9 @@ steps:
     image: tambah-air-dan-nasi.jpg
   - description: Naikkan api hingga agak besar dan biarkan campuran mendidih.
     image: masak-.jpg
-  - description: Setelah mendidih, turunkan api menjadi sedang-rendah dan tutup
-      wajan dengan penutup. Masak selama 22 menit, atau hingga nasi empuk dan
-      air terserap.
+  - description: Setelah mendidih, turunkan api menjadi agak kecil dan tutup wajan
+      dengan penutup. Masak selama 22 menit, atau hingga nasi empuk dan air
+      terserap.
     image: tutup-panci.jpg
   - description: Angkat dari api dan biarkan tertutup selama beberapa menit sebelum
       disajikan.
