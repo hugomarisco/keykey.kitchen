@@ -6,7 +6,7 @@ tags:
   - chicken
   - Indonesian
 ingredients:
-  - name: chicken
+  - name: chicken → remove the skin
     amount: 1 kilogram
   - name: shallots → finely ground
     amount: "6"

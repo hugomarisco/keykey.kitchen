@@ -7,7 +7,7 @@ tags:
   - ayam
   - Indonesian
 ingredients:
-  - name: ayam
+  - name: ayam → buang kulitnya
     amount: 1 kilogram
   - name: bawang merah → haluskan
     amount: 6 buah
