@@ -17,3 +17,4 @@ weight = 2
 custom_css = ["search.css"]
 background_color_class = "bg-dark-gray"
 body_classes = "helvetica bg-washed-blue"
+recent_posts_number = 20
