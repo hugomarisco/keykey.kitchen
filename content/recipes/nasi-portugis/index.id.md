@@ -1,7 +1,7 @@
 ---
 title: NASI PORTUGIS
 date: 2024-09-16T21:19:00+08:00
-image: selesai.jpg
+featured_image: selesai.jpg
 tags:
   - makanan pendamping
   - nasi
@@ -42,6 +42,7 @@ steps:
   - description: Angkat dari api dan biarkan tertutup selama beberapa menit sebelum
       disajikan.
     image: selesai.jpg
+image: selesai.jpg
 footer: "*Nikmati Nasi Portugis ini — simple, aromatik, dan pastinya
   tastilicious! Hidangan ini bikin makan malammu lebih seru dan pasti bikin kamu
   ketagihan.*"

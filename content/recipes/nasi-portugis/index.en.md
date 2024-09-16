@@ -1,6 +1,7 @@
 ---
 title: PORTUGUESE RICE
 date: 2024-09-16T21:19:00+08:00
+featured_image: selesai.jpg
 tags:
   - side dish
   - rice
