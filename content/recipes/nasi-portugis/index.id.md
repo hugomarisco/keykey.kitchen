@@ -35,7 +35,7 @@ steps:
     image: tumis-transparent.jpg
   - description: Tuang 2 cangkir air dan tambahkan sejumput garam. Aduk hingga rata.
     image: tambah-air-dan-nasi.jpg
-  - description: Naikkan api hingga agak besar dan biarkan campuran mendidih.
+  - description: Naikkan api hingga agak besar dan biarkan masakannya mendidih.
     image: masak-.jpg
   - description: Setelah mendidih, turunkan api menjadi agak kecil dan tutup wajan
       dengan penutup. Masak selama 22 menit, atau hingga nasi empuk dan air
