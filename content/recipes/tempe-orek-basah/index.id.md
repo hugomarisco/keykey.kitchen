@@ -2,7 +2,11 @@
 title: TEMPE OREK BASAH
 date: 2024-09-15T21:31:00+08:00
 image: orek-tempe-basah.jpg
-tags: []
+tags:
+  - menu pendamping
+  - tempe
+  - kacang kedelai
+  - Indonesia
 ingredients:
   - name: Tempe
     amount: 1 papan
@@ -55,5 +59,8 @@ steps:
     image: masukkan-cabe.jpg
   - description: Taburkan biji wijen, aduk dan matikan api.
   - description: Masakan siap dihidangkan.
+footer: Resep ini mengubah tempe klasik menjadi hidangan asam pedas yang lezat
+  dan penuh rasa. Sempurna untuk menambah sedikit sensasi pada makananmu.
+  Nikmati kreasi tastilicious-mu!
 ---
-> Tempe Orek adalah hidangan khas Indonesia dari Jawa, di mana tempe dipotong dadu atau diiris dan dimasak dengan campuran gula aren, kecap manis, dan asam jawa yang khas. Ini adalah hidangan klasik yang penuh rasa dan mencerminkan kelezatan masakan tradisional Jawa.
+Tempe Orek adalah hidangan khas Indonesia dari Jawa, di mana tempe dipotong dadu atau diiris dan dimasak dengan campuran gula aren, kecap manis, dan asam jawa yang khas. Ini adalah hidangan klasik yang penuh rasa dan mencerminkan kelezatan masakan tradisional Jawa.
