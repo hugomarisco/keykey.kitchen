@@ -1,7 +1,7 @@
 ---
 title: PERKEDEL JAGUNG
 date: 2024-09-15T22:57:00+08:00
-image: 1-1-perkedel-jagung.jpg
+featured_image: 1-1-perkedel-jagung.jpg
 tags:
   - makanan pendamping
   - camilan
@@ -52,6 +52,7 @@ steps:
     image: goreng.jpg
   - description: Angkat, tiriskan, dan masakan siap disajikan.
     image: angkat-dan-sajikan.jpg
+image: 1-1-perkedel-jagung.jpg
 footer: "*Resep ini bikin jagung manis jadi camilan renyah yang enak banget.
   Cocok banget sebagai camilan atau lauk pendamping, perkedel jagung ini pasti
   bakal bikin meja makanmu lebih berwarna. Selamat menikmati kreasi
