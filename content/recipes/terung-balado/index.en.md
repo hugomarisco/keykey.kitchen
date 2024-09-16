@@ -1,5 +1,5 @@
 ---
-title: EGGPLANT BALADO
+title: BALADO EGGPLANT
 date: 2024-09-16T23:57:00+08:00
 tags:
   - Side dish
@@ -43,7 +43,7 @@ steps:
   - description: Add a squeeze of lime juice for a fresh kick, then mix the fried
       eggplant into the sambal. Stir until the eggplant is fully coated in the
       sambal.
-  - description: Your Terung Balado is ready to be served with warm white rice.
+  - description: Your balado eggplant is ready to be served with warm white rice.
 footer: >-
   **Tips:**
 
@@ -51,8 +51,6 @@ footer: >-
   To prevent the eggplant from becoming soggy and to keep its beautiful purple color, add a little rice flour to the hot oil and stir until well combined. Then, add the eggplant to the hot oil that has been mixed with rice flour.
 
 
-
-
-  *Enjoy your flavorful Eggplant Balado! This perfect combination of spicy, tangy, and savory flavors will make your taste buds dance. Serve with warm rice and experience the tastilicious sensation in every bite!*
+  *Enjoy your flavorful Balado Eggplant! This perfect combination of spicy, tangy, and savory flavors will make your taste buds dance. Serve with warm rice and experience the tastilicious sensation in every bite!*
 ---
-Eggplant Balado is a favorite dish in Indonesia, known for its tantalizing spiciness. This dish combines tender eggplant with a rich, spicy sambal, creating a satisfying burst of taste. Easy and simple to make, Eggplant Balado is often enjoyed as a comforting home-cooked meal and pairs perfectly with white rice. It’s a dish that really captures the essence of Indonesian cuisine and will make you crave more!
+Balado Eggplant is a favorite dish in Indonesia, known for its tantalizing spiciness. This dish combines tender eggplant with a rich, spicy sambal, creating a satisfying burst of taste. Easy and simple to make, Balado Eggplant is often enjoyed as a comforting home-cooked meal and pairs perfectly with white rice. It’s a dish that really captures the essence of Indonesian cuisine and will make you crave more!
