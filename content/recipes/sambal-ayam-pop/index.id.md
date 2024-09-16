@@ -1,7 +1,7 @@
 ---
 title: SAMBAL AYAM POP
 date: 2024-09-16T19:43:00+08:00
-image: selesai.jpg
+featured_image: selesai.jpg
 tags:
   - sambal
   - cabai
@@ -48,6 +48,7 @@ steps:
     image: tambah-air-rebusan-dan-daun-jeruk-jeruk-nipis.jpg
   - description: Sambal siap disajikan sebagai pelengkap Ayam Pop.
     image: selesai.jpg
+image: selesai.jpg
 footer: "*Nikmati sambal tastilicious Anda dengan Ayam Pop! Ini adalah pelengkap
   pedas yang sempurna untuk hidangan Anda. Selamat makan!*"
 ---

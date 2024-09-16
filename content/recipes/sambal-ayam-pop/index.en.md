@@ -1,6 +1,7 @@
 ---
 title: SAMBAL CHICKEN POP
 date: 2024-09-16T19:43:00+08:00
+featured_image: selesai.jpg
 tags:
   - condiment
   - chili
