@@ -8,7 +8,7 @@ tags:
   - Portugis
 ingredients:
   - amount: 1 cangkir
-    name: nasi
+    name: beras
   - name: bawang bombay (ukuran kecil)
     amount: "1"
   - name: bawang putih
@@ -29,12 +29,10 @@ steps:
       Tambahkan bawang bombay, bawang putih, dan daun salam. Tumis hingga bawang
       mulai menjadi transparan.
     image: tumis.jpg
-  - description: Ketika bawang mulai terlihat transparan, tambahkan satu cangkir
-      beras, dua cangkir air, dan sejumput garam.
+  - description: Ketika bawang mulai terlihat transparan, tambahkan beras yang sudah
+      dicuci ke dalam wajan dan aduk hingga tercampur rata dengan bawang dan
+      bawang putih.
     image: tumis-transparent.jpg
-  - description: Tambahkan nasi yang sudah dicuci ke dalam wajan dan aduk hingga
-      tercampur rata dengan bawang dan bawang putih.
-    image: ""
   - description: Tuang 2 cangkir air dan tambahkan sejumput garam. Aduk hingga rata.
     image: tambah-air-dan-nasi.jpg
   - description: Naikkan api hingga agak besar dan biarkan campuran mendidih.
