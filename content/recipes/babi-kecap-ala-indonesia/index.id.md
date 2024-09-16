@@ -3,7 +3,7 @@ title: BABI KECAP (ala Indonesia)
 date: 2024-09-16T00:00:00+08:00
 image: sajikan.jpg
 tags:
-  - main dish
+  - hidangan utama
   - babi
   - Indonesia
 ingredients:
