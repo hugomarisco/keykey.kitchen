@@ -25,7 +25,7 @@ ingredients:
     amount: 5 lembar
   - name: serai → ½ digeprek lalu diikat & ½ dihaluskan
     amount: 1 batang
-  - name: air kelapa → saya ambil dari 1 buah kelapa utuh
+  - name: air kelapa → aku ambil dari 1 buah kelapa utuh
     amount: 600 ml
   - name: garam
     amount: 1 sendok teh
