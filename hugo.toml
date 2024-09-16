@@ -2,6 +2,7 @@ baseURL = 'https://keykey.kitchen/'
 languageCode = 'en-us'
 title = 'KeyKey Kitchen'
 theme = 'ananke'
+date_format = ':date_long'
 defaultContentLanguage = 'id'
 [languages]
 [languages.id]

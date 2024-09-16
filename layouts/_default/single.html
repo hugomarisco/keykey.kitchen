@@ -50,24 +50,28 @@
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
       {{- .Content -}}
 
-      <h2>Ingredients</h2>
+      <h2>{{ T "ingredients" }}</h2>
       <ul>
       {{ range .Params.ingredients }}
         <li>{{ .amount }} {{ .name }}</li>
       {{ end }}
       </ul>
 
-      <h2>Steps</h2>
+      <h2>{{ T "steps" }}</h2>
       <ol>
       {{ range .Params.steps }}
         <li>
             {{ .description }}
-            {{ with $.Resources.GetMatch .image }}
-              <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
-            {{ end }}
+            {{- with $i := $.Page.Resources.Get .image }}
+                {{- with $i.Resize "600x" }}
+                    <img src="{{ .RelPermalink }}" class="w-100">
+                {{- end }}
+            {{- end }}
         </li>
       {{ end }}
       </ol>
+
+      {{ .Params.footer }}
 
       {{- partial "tags.html" . -}}
       <div class="mt6 instapaper_ignoref">
