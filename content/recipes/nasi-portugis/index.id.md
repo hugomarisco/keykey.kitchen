@@ -13,7 +13,7 @@ ingredients:
     amount: "1"
   - name: bawang putih
     amount: 4 siung
-  - name: daun salam
+  - name: daun salam (opsional)
     amount: 2 lembar
   - name: minyak zaitun
     amount: "Secukupnya "

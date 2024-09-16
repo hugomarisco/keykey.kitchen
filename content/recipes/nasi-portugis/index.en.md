@@ -12,7 +12,7 @@ ingredients:
     amount: 1 small
   - name: garlic
     amount: 4 cloves
-  - name: bay leaves
+  - name: bay leaves (optional)
     amount: "2"
   - name: olive oil
     amount: As needed
