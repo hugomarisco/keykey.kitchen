@@ -10,9 +10,9 @@ ingredients:
   - name: ayam → buang kulitnya
     amount: 1 kilogram
   - name: bawang merah → haluskan
-    amount: 6 buah
+    amount: 5 buah
   - name: bawang putih → haluskan
-    amount: 4 buah
+    amount: 3 buah
   - name: kemiri → haluskan
     amount: 3 buah
   - name: jahe → haluskan

@@ -9,9 +9,9 @@ ingredients:
   - name: chicken → remove the skin
     amount: 1 kilogram
   - name: shallots → finely ground
-    amount: "6"
+    amount: "5"
   - name: garlic → finely ground
-    amount: 4 cloves
+    amount: 3 cloves
   - name: candlenuts → finely ground
     amount: "3"
   - name: ginger → finely ground
