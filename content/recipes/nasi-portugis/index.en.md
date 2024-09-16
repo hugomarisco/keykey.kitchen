@@ -21,7 +21,6 @@ ingredients:
   - name: salt
     amount: "A dash of "
 steps:
-  - description: Wash the rice thoroughly and set it aside.
   - description: Mince the onion and garlic.
     image: cincang.jpg
   - description: Heat a dash of olive oil in a pan over medium heat. Add the minced
