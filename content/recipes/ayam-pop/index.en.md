@@ -1,4 +1,5 @@
 ---
+title: WEST SUMATRAN POP CHICKEN
 date: 2024-09-16T17:28:00+08:00
 tags:
   - main dish
