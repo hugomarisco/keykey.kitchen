@@ -1,7 +1,7 @@
 ---
 title: BABI KECAP (ala Indonesia)
 date: 2024-09-16T00:00:00+08:00
-image: sajikan.jpg
+featured_image: sajikan.jpg
 tags:
   - hidangan utama
   - babi
@@ -77,6 +77,7 @@ steps:
     image: masukkan-tahu-dan-cabe.jpg
   - description: Matikan api, angkat dan sajikan.
     image: sajikan.jpg
+image: sajikan.jpg
 footer: "*Babi Kecap tastilicious-mu sudah siap! Daging babi yang empuk, saus
   yang kaya, dan sentuhan bumbu pedas yang pas — hidangan ini benar-benar penuh
   rasa. Sajikan dengan nasi untuk pengalaman makan yang memuaskan!*"

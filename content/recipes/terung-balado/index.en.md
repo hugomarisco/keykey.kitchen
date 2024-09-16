@@ -1,6 +1,7 @@
 ---
 title: BALADO EGGPLANT
 date: 2024-09-16T23:57:00+08:00
+featured_image: terong-balado.jpg
 tags:
   - Side dish
   - eggplant

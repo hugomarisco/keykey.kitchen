@@ -1,7 +1,7 @@
 ---
 title: AYAM POP
 date: 2024-09-16T17:28:00+08:00
-image: goreng-dan-sajikan.jpg
+featured_image: goreng-dan-sajikan.jpg
 tags:
   - menu utama
   - ayam
@@ -50,6 +50,7 @@ steps:
       terlihat mengkilap.
   - description: Sajikan ayam pop dengan sambal dan sayur singkong rebus.
     image: goreng-dan-sajikan.jpg
+image: goreng-dan-sajikan.jpg
 footer: >-
   **Tips:** 
 

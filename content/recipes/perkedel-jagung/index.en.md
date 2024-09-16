@@ -1,6 +1,7 @@
 ---
 title: CORN FRITTER
 date: 2024-09-15T22:57:00+08:00
+featured_image: 1-1-perkedel-jagung.jpg
 tags:
   - makanan pendamping
   - snack

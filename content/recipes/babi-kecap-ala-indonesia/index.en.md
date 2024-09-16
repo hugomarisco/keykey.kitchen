@@ -1,6 +1,7 @@
 ---
 title: BABI KECAP (Indonesian Style)
 date: 2024-09-16T00:00:00+08:00
+featured_image: sajikan.jpg
 tags:
   - main dish
   - pork
