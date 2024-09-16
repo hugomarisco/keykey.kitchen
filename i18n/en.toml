@@ -49,7 +49,7 @@ other = "{{ .Count }} words"
 other = "{{ .Name }} page"
 
 [ingredients]
-other = "Ingredients"
+other = "What you'll need..."
 
 [steps]
-other = "Steps"
+other = "How to make..."

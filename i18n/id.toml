@@ -49,7 +49,7 @@ other = "{{ .Count }} kata"
 other = "{{ .Name }} halaman"
 
 [ingredients]
-other = "Bahan"
+other = "Yang akan kamu butuhkan..."
 
 [steps]
-other = "Langkah"
+other = "Cara membuatnya..."
