@@ -7,7 +7,6 @@ media_folder: "static/images"
 i18n:
   structure: multiple_files
   locales: [id, en]
-  default_locale: id
 collections:
   - name: "recipe"
     label: "Recipe"
@@ -25,9 +24,11 @@ collections:
         widget: "datetime"
         default: "{{now}}"
         format: ""
+        i18n: duplicate
       - label: "Featured Image"
         name: "featured_image"
         widget: "image"
+        i18n: duplicate
       - label: "Body"
         name: "body"
         i18n: true

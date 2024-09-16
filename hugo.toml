@@ -1,5 +1,5 @@
 baseURL = 'https://keykey.kitchen/'
-languageCode = 'en-us'
+languageCode = 'id'
 title = 'KeyKey Kitchen'
 theme = 'ananke'
 date_format = ':date_long'
@@ -15,3 +15,5 @@ languageName = 'English'
 weight = 2
 [params]
 custom_css = ["search.css"]
+background_color_class = "bg-dark-gray"
+body_classes = "helvetica bg-washed-blue"
