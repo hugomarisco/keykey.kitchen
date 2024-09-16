@@ -5,7 +5,7 @@ other = "Lebih banyak"
 other = "Semua {{.Title }}"
 
 [recentTitle]
-other = "Terbaru {{.Title }}"
+other = "{{.Title }} terbaru"
 
 [readMore]
 other = "Baca selengkapnya"
