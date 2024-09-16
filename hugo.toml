@@ -13,3 +13,5 @@ weight = 1
 languageCode = 'en'
 languageName = 'English'
 weight = 2
+[params]
+custom_css = ["search.css"]
