@@ -1,7 +1,7 @@
 ---
 title: TERUNG BALADO
 date: 2024-09-16T23:57:00+08:00
-image: terong-balado.jpg
+featured_image: terong-balado.jpg
 tags:
   - makanan pendamping
   - terung
@@ -45,6 +45,7 @@ steps:
       dan setelahnya terung yang sudah digoreng ke dalam sambal. Aduk rata
       hingga terung terbalut sambal.
   - description: Terung balado kamu siap disajikan sebagai teman nasi putih hangat.
+image: terong-balado.jpg
 footer: >-
   Tips:
 
