@@ -1,6 +1,11 @@
 ---
 title: CORN FRITTER
 date: 2024-09-15T22:57:00+08:00
+tags:
+  - makanan pendamping
+  - snack
+  - corn
+  - Indonesian
 ingredients:
   - amount: corn → kernels removed, half finely blended
     name: 2 ears
@@ -45,5 +50,8 @@ steps:
     image: goreng.jpg
   - description: Remove, drain, and serve warm.
     image: angkat-dan-sajikan.jpg
+footer: "*This recipe turns sweet corn into a crispy delight that's both savory
+  and satisfying. Perfect as a snack or a side dish, these fritters are sure to
+  bring a burst of flavor to your table. Enjoy your tastilicious creation!*"
 ---
-> Corn fritter is a tasty snack with Spanish and Portuguese influences. Corn, native to the Americas, was introduced to Indonesia by the Portuguese. Thanks to Indonesia’s ideal growing conditions, corn became widely harvested. One of the easiest and most delightful ways to enjoy corn is through these crispy fritters.
+Corn fritter is a tasty snack with Spanish and Portuguese influences. Corn, native to the Americas, was introduced to Indonesia by the Portuguese. Thanks to Indonesia’s ideal growing conditions, corn became widely harvested. One of the easiest and most delightful ways to enjoy corn is through these crispy fritters.

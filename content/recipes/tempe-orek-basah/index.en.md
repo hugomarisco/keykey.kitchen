@@ -1,6 +1,11 @@
 ---
 title: TEMPE OREK (Wet Version)
 date: 2024-09-15T21:31:00+08:00
+tags:
+  - side dish
+  - tempe
+  - soybean
+  - Indonesian
 ingredients:
   - name: Tempe
     amount: 1 block
@@ -54,5 +59,8 @@ steps:
     image: masukkan-cabe.jpg
   - description: Sprinkle with toasted sesame seeds if desired, stir, and turn off the heat.
   - description: Serve and enjoy!
+footer: "*This recipe transforms classic tempe into a deliciously tangy and
+  spicy treat that’s packed with flavor. Perfect for adding a bit of zest to
+  your meal. Enjoy your tastilicious creation!*"
 ---
-> Tempe Orek is a beloved Indonesian dish from Java, where tempe is diced or sliced and cooked with a unique blend of palm sugar, Indonesian sweet soy sauce (kecap manis), and tamarind. It’s a flavorful, savory classic that captures the heart of traditional Javanese cuisine.
+Tempe Orek is a beloved Indonesian dish from Java, where tempe is diced or sliced and cooked with a unique blend of palm sugar, Indonesian sweet soy sauce (kecap manis), and tamarind. It’s a flavorful, savory classic that captures the heart of traditional Javanese cuisine.

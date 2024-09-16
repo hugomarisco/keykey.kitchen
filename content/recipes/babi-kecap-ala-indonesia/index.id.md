@@ -2,6 +2,10 @@
 title: BABI KECAP (ala Indonesia)
 date: 2024-09-16T00:00:00+08:00
 image: sajikan.jpg
+tags:
+  - hidangan utama
+  - babi
+  - Indonesia
 ingredients:
   - name: daging babi (aku pakai bagian samcan)
     amount: 200 gram
@@ -73,5 +77,8 @@ steps:
     image: masukkan-tahu-dan-cabe.jpg
   - description: Matikan api, angkat dan sajikan.
     image: sajikan.jpg
+footer: "*Babi Kecap tastilicious-mu sudah siap! Daging babi yang empuk, saus
+  yang kaya, dan sentuhan bumbu pedas yang pas — hidangan ini benar-benar penuh
+  rasa. Sajikan dengan nasi untuk pengalaman makan yang memuaskan!*"
 ---
-> Babi Kecap adalah hidangan babi khas Indonesia yang dimasak dengan kecap manis yang enak dan kaya rasa. Meskipun asalnya dari masakan Tiongkok Selatan, Babi Kecap ini jadi favorit di Indonesia berkat rasa manis khas kecap manisnya. Biasanya, potongan perut babi direbus pelan-pelan dalam kecap manis, dicampur dengan bawang putih, bawang merah, dan sedikit garam, menghasilkan hidangan yang hangat, harum, dan cocok untuk segala kesempatan.
+Babi Kecap adalah hidangan babi khas Indonesia yang dimasak dengan kecap manis yang enak dan kaya rasa. Meskipun asalnya dari masakan Tiongkok Selatan, Babi Kecap ini jadi favorit di Indonesia berkat rasa manis khas kecap manisnya. Biasanya, potongan perut babi direbus pelan-pelan dalam kecap manis, dicampur dengan bawang putih, bawang merah, dan sedikit garam, menghasilkan hidangan yang hangat, harum, dan cocok untuk segala kesempatan.

@@ -1,6 +1,10 @@
 ---
 title: BABI KECAP (Indonesian Style)
 date: 2024-09-16T00:00:00+08:00
+tags:
+  - main dish
+  - pork
+  - Indonesian
 ingredients:
   - name: pork (I used pork belly)
     amount: 200 grams
@@ -72,5 +76,8 @@ steps:
     image: masukkan-tahu-dan-cabe.jpg
   - description: Turn off the heat, remove from the pan, and serve.
     image: sajikan.jpg
+footer: "*Your tastilicious Babi Kecap is done! Tender pork, rich sauce, and
+  just the right kick of spice — this dish is an absolute flavor bomb. Serve it
+  with rice for a truly satisfying meal!*"
 ---
-> Babi Kecap is an Indonesian pork dish cooked in delicious, rich sweet soy sauce. Although it originates from Southern Chinese cuisine, Babi Kecap has become a favorite in Indonesia thanks to the unique sweetness of the kecap manis. Typically, pork belly is slowly braised in sweet soy sauce, combined with garlic, shallots, and a little salt, resulting in a warm, fragrant dish perfect for any occasion.
+Babi Kecap is an Indonesian pork dish cooked in delicious, rich sweet soy sauce. Although it originates from Southern Chinese cuisine, Babi Kecap has become a favorite in Indonesia thanks to the unique sweetness of the kecap manis. Typically, pork belly is slowly braised in sweet soy sauce, combined with garlic, shallots, and a little salt, resulting in a warm, fragrant dish perfect for any occasion.
