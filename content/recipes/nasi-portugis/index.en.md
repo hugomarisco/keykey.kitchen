@@ -27,8 +27,8 @@ steps:
       onion, garlic, and bay leaves. Sauté until the onion starts to become
       translucent.
     image: tumis.jpg
-  - description: When the onion turns translucent, add the washed rice to the pan
-      and stir to mix with the onions and garlic.
+  - description: When the onion turns translucent, add the rice to the pan and stir
+      to mix with the onions and garlic.
     image: tumis-transparent.jpg
   - description: Pour in 2 cups of water and add a dash of salt. Stir to combine.
     image: tambah-air-dan-nasi.jpg

@@ -28,9 +28,8 @@ steps:
       Tambahkan bawang bombay, bawang putih, dan daun salam. Tumis hingga bawang
       mulai menjadi transparan.
     image: tumis.jpg
-  - description: Ketika bawang mulai terlihat transparan, tambahkan beras yang sudah
-      dicuci ke dalam wajan dan aduk hingga tercampur rata dengan bawang dan
-      bawang putih.
+  - description: Ketika bawang mulai terlihat transparan, tambahkan beras ke dalam
+      wajan dan aduk hingga tercampur rata dengan bawang dan bawang putih.
     image: tumis-transparent.jpg
   - description: Tuang 2 cangkir air dan tambahkan sejumput garam. Aduk hingga rata.
     image: tambah-air-dan-nasi.jpg
