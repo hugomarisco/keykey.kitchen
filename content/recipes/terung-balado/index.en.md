@@ -8,7 +8,7 @@ tags:
 ingredients:
   - name: eggplants, cut in half lengthwise (but keep them attached)
     amount: 5 medium-sized
-  - name: oil for frying
+  - name: cooking oil
     amount: As needed
   - name: shallots (equal amount to chilies)
     amount: "10"
