@@ -2,6 +2,11 @@
 title: PERKEDEL JAGUNG
 date: 2024-09-15T22:57:00+08:00
 image: 1-1-perkedel-jagung.jpg
+tags:
+  - makanan pendamping
+  - camilan
+  - jagung
+  - Indonesia
 ingredients:
   - name: jagung → pipil, haluskan dengan ½ bagian
     amount: 2 buah
@@ -47,5 +52,9 @@ steps:
     image: goreng.jpg
   - description: Angkat, tiriskan, dan masakan siap disajikan.
     image: angkat-dan-sajikan.jpg
+footer: "*Resep ini bikin jagung manis jadi camilan renyah yang enak banget.
+  Cocok banget sebagai camilan atau lauk pendamping, perkedel jagung ini pasti
+  bakal bikin meja makanmu lebih berwarna. Selamat menikmati kreasi
+  tastiliciousmu!*"
 ---
-> Perkedel jagung adalah camilan lezat yang terinspirasi dari pengaruh kuliner Spanyol dan Portugis. Jagung, yang berasal dari Amerika, diperkenalkan ke Indonesia oleh bangsa Portugis. Dengan kondisi tanah Indonesia yang sangat cocok, jagung menjadi tanaman yang banyak dibudidayakan. Salah satu cara termudah dan paling menggugah selera untuk menikmati jagung adalah dengan membuat perkedel jagung yang renyah ini.
+Perkedel jagung adalah camilan lezat yang terinspirasi dari pengaruh kuliner Spanyol dan Portugis. Jagung, yang berasal dari Amerika, diperkenalkan ke Indonesia oleh bangsa Portugis. Dengan kondisi tanah Indonesia yang sangat cocok, jagung menjadi tanaman yang banyak dibudidayakan. Salah satu cara termudah dan paling menggugah selera untuk menikmati jagung adalah dengan membuat perkedel jagung yang renyah ini.
