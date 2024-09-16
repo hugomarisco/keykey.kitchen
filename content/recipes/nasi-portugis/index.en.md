@@ -41,7 +41,7 @@ steps:
     image: tutup-panci.jpg
   - description: Remove from heat and let it sit covered for a few minutes before serving.
     image: selesai.jpg
-footer: "*Enjoy this Portuguese Rice—simple, aromatic, and definitely
+footer: "*Enjoy this Portuguese Rice — simple, aromatic, and definitely
   tastilicious! This dish makes your dinner more exciting and will surely keep
   you coming back for more.*"
 ---

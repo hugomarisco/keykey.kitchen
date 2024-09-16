@@ -44,7 +44,8 @@ steps:
   - description: Angkat dari api dan biarkan tertutup selama beberapa menit sebelum
       disajikan.
     image: selesai.jpg
-footer: "*Nikmati Nasi Portugis ini—simple, aromatik, dan pastinya tastilicious!
-  Hidangan ini bikin makan malammu lebih seru dan pasti bikin kamu ketagihan.*"
+footer: "*Nikmati Nasi Portugis ini — simple, aromatik, dan pastinya
+  tastilicious! Hidangan ini bikin makan malammu lebih seru dan pasti bikin kamu
+  ketagihan.*"
 ---
 Bikin makan malammu lebih spesial dengan Nasi Portugis klasik ini. Dengan campuran bahan-bahan aromatik, hidangan ini bawa cita rasa Portugal ke meja makanmu. Mudah dibuat dan lezat, Nasi Portugis ini jadi pelengkap yang pas untuk setiap santapan.
