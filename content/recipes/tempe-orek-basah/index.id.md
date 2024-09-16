@@ -1,7 +1,7 @@
 ---
 title: TEMPE OREK BASAH
 date: 2024-09-15T21:31:00+08:00
-image: orek-tempe-basah.jpg
+featured_image: masak-tempe.jpg
 tags:
   - menu pendamping
   - tempe
@@ -59,6 +59,7 @@ steps:
     image: masukkan-cabe.jpg
   - description: Taburkan biji wijen, aduk dan matikan api.
   - description: Masakan siap dihidangkan.
+image: orek-tempe-basah.jpg
 footer: Resep ini mengubah tempe klasik menjadi hidangan asam pedas yang lezat
   dan penuh rasa. Sempurna untuk menambah sedikit sensasi pada makananmu.
   Nikmati kreasi tastilicious-mu!
