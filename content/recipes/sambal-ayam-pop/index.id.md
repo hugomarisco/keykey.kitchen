@@ -3,8 +3,8 @@ title: SAMBAL AYAM POP
 date: 2024-09-16T19:43:00+08:00
 image: selesai.jpg
 tags:
-  - makanan utama
-  - ayam
+  - sambal
+  - cabai
   - Indonesia
 ingredients:
   - name: bawang merah → potong kasar

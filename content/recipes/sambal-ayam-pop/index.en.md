@@ -2,8 +2,8 @@
 title: SAMBAL CHICKEN POP
 date: 2024-09-16T19:43:00+08:00
 tags:
-  - main dish
-  - chicken
+  - condiment
+  - chili
   - Indonesian
 ingredients:
   - name: shallots → coarsely chopped
