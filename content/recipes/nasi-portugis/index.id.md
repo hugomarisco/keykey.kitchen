@@ -22,7 +22,7 @@ ingredients:
   - name: garam
     amount: Sejumput
 steps:
-  - description: Cuci nasi hingga bersih dan sisihkan.
+  - description: Cuci beras hingga bersih dan sisihkan.
   - description: "Cincang halus bawang bombay dan bawang putih. "
     image: cincang.jpg
   - description: Panaskan sedikit minyak zaitun di wajan dengan api sedang.
