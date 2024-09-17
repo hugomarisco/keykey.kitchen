@@ -1,5 +1,5 @@
 ---
-title: WEST SUMATRAN POP CHICKEN
+title: WEST SUMATRAN AYAM POP
 date: 2024-09-16T17:28:00+08:00
 featured_image: goreng-dan-sajikan.jpg
 tags:
