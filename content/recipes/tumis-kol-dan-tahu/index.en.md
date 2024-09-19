@@ -64,3 +64,8 @@ footer: >-
   *And voila! This super simple and delicious sautéed cabbage and tofu is ready to enjoy. It’s tastilicious, perfect for a daily meal or a healthy snack. Happy cooking!*
 ---
 If you're not sure what to cook, this Sautéed Cabbage and Tofu is the answer! Simple, healthy, and doesn't take long to make. With basic ingredients, you can create a dish that’s yummy and perfect for any occasion. Ready to cook? Let’s give it a try!
+
+
+
+For 2-3 servings\
+Time: 15 minutes
