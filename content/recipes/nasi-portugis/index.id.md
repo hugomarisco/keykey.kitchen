@@ -48,3 +48,8 @@ footer: "*Nikmati Nasi Portugis ini — simple, aromatik, dan pastinya
   ketagihan.*"
 ---
 Bikin makan malammu lebih spesial dengan Nasi Portugis klasik ini. Dengan campuran bahan-bahan aromatik, hidangan ini bawa cita rasa Portugal ke meja makanmu. Mudah dibuat dan lezat, Nasi Portugis ini jadi pelengkap yang pas untuk setiap santapan.
+
+
+
+Untuk 4 porsi\
+Waktu : 30 menit

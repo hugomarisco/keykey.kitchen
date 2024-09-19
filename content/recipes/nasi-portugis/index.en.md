@@ -46,3 +46,8 @@ footer: "*Enjoy this Portuguese Rice — simple, aromatic, and definitely
   you coming back for more.*"
 ---
 Elevate your dinner with classic Portuguese Rice, featuring a blend of aromatic ingredients that bring a taste of Portugal to your table. Easy to make and delicious, this dish is a perfect addition to any meal.
+
+
+
+For 4 servings\
+Time: 30 minutes
