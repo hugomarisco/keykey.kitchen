@@ -51,3 +51,8 @@ footer: "*Enjoy your tastilicious sambal with Ayam Pop! It’s the perfect spicy
   complement to your meal. Bon appétit!*"
 ---
 Discover the mouthwatering flavors of Sambal Ayam Pop, a spicy condiment perfect for West Sumatra's Ayam Pop. This savory and spicy sambal enhances the chicken’s flavor, adding a burst of taste to every bite. Easy to make and full of deliciousness, Sambal Ayam Pop is the ideal companion to elevate your Ayam Pop experience.
+
+
+
+For 6-8 servings\
+Time: 20 minutes

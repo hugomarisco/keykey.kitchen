@@ -52,4 +52,7 @@ image: selesai.jpg
 footer: "*Nikmati sambal tastilicious Anda dengan Ayam Pop! Ini adalah pelengkap
   pedas yang sempurna untuk hidangan Anda. Selamat makan!*"
 ---
-Jelajahi rasa menggugah dari Sambal Ayam Pop, sambal pedas yang pas banget untuk Ayam Pop khas Sumatra Barat. Sambal gurih dan pedas ini bikin rasa ayam jadi makin mantap, dengan ledakan rasa di setiap gigitan. Mudah dibuat dan penuh kelezatan, Sambal Ayam Pop adalah teman sempurna untuk meningkatkan pengalaman Ayam Pop-mu.
+Jelajahi rasa menggugah dari Sambal Ayam Pop, sambal pedas yang pas banget untuk Ayam Pop khas Sumatra Barat. Sambal gurih dan pedas ini bikin rasa ayam jadi makin mantap, dengan ledakan rasa di setiap gigitan. Mudah dibuat dan penuh kelezatan, Sambal Ayam Pop adalah teman sempurna untuk meningkatkan pengalaman Ayam Pop-mu.\
+\
+Untuk 6-8 porsi\
+Waktu : 20 menit
