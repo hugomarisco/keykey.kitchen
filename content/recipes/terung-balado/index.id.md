@@ -58,3 +58,8 @@ footer: >-
   *Selamat menikmati Terung Balado yang penuh rasa! Kombinasi sempurna antara pedas, asam, dan gurih ini akan membuat lidahmu bergoyang. Sajikan dengan nasi hangat dan rasakan sensasi "tastilicious" di setiap gigitan!*
 ---
 Terung Balado adalah salah satu hidangan favorit di Indonesia, terkenal dengan rasa pedasnya yang menggugah selera. Hidangan ini menggabungkan terung empuk dengan sambal pedas yang kaya, menciptakan ledakan rasa yang mantap. Mudah dan simpel untuk dibuat, Terung Balado biasanya dinikmati sebagai makanan rumahan yang nyaman dan cocok banget disajikan dengan nasi putih. Ini dia sajian yang bikin kangen dengan cita rasa kuliner Indonesia!
+
+
+
+Untuk 4-5 porsi\
+Waktu : 25 menit

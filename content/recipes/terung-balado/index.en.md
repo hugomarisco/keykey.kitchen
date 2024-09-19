@@ -55,3 +55,8 @@ footer: >-
   *Enjoy your flavorful Balado Eggplant! This perfect combination of spicy, tangy, and savory flavors will make your taste buds dance. Serve with warm rice and experience the tastilicious sensation in every bite!*
 ---
 Balado Eggplant is a favorite dish in Indonesia, known for its tantalizing spiciness. This dish combines tender eggplant with a rich, spicy sambal, creating a satisfying burst of taste. Easy and simple to make, Balado Eggplant is often enjoyed as a comforting home-cooked meal and pairs perfectly with white rice. It’s a dish that really captures the essence of Indonesian cuisine and will make you crave more!
+
+
+
+For 4-5 servings\
+Time: 25 minutes
