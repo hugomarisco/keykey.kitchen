@@ -61,3 +61,8 @@ footer: >-
   *Savor your perfectly glossy Ayam Pop—crispy on the outside and tender on the inside. It’s a tastilicious treat that’s sure to delight your taste buds. Bon appétit!*
 ---
 If you’re into fried chicken but want something a bit different, try Ayam Pop from West Sumatra. What makes it unique is its pale white color, not the usual golden brown of fried chicken. The secret? The chicken is first simmered with coconut water and garlic to infuse the flavors. Then, it’s briefly fried to get a bit of crisp on the outside while keeping it tender on the inside. The result? Juicy and delicious Ayam Pop that might just become your new favorite!
+
+
+
+Untuk 6-8 porsi\
+Waktu : 30 menit

@@ -64,3 +64,8 @@ footer: >-
   *Nikmati Ayam Pop Anda yang mengkilap sempurna—garing di luar dan lembut di dalam. Ini adalah hidangan tastilicious yang pasti memanjakan lidah kamu. Selamat makan!*
 ---
 Kalau kamu suka ayam goreng tapi ingin sesuatu yang beda, coba deh Ayam Pop dari Sumatera Barat ini. Yang bikin unik, ayam ini tetap berwarna putih pucat, bukan cokelat seperti ayam goreng biasa. Caranya, ayam yang sudah dibumbui direbus dulu dengan air kelapa dan bawang putih, jadi rasanya lebih meresap. Setelah itu, ayam digoreng sebentar aja, cukup untuk bikin bagian luarnya agak renyah tapi bagian dalamnya tetap lembut. Hasilnya? Ayam Pop yang juicy dan lezat, siap jadi favorit baru kamu!
+
+
+
+Untuk 6-8 porsi\
+Waktu : 30 menit
