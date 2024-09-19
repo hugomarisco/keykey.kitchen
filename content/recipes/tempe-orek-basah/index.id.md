@@ -64,4 +64,7 @@ footer: Resep ini mengubah tempe klasik menjadi hidangan asam pedas yang lezat
   dan penuh rasa. Sempurna untuk menambah sedikit sensasi pada makananmu.
   Nikmati kreasi tastilicious-mu!
 ---
-Tempe Orek adalah hidangan khas Indonesia dari Jawa, di mana tempe dipotong dadu atau diiris dan dimasak dengan campuran gula aren, kecap manis, dan asam jawa yang khas. Ini adalah hidangan klasik yang penuh rasa dan mencerminkan kelezatan masakan tradisional Jawa.
+Tempe Orek adalah hidangan khas Indonesia dari Jawa, di mana tempe dipotong dadu atau diiris dan dimasak dengan campuran gula aren, kecap manis, dan asam jawa yang khas. Ini adalah hidangan klasik yang penuh rasa dan mencerminkan kelezatan masakan tradisional Jawa.\
+\
+Untuk 2-3 porsi\
+Waktu : 20 menit
