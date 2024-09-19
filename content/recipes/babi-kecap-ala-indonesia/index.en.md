@@ -82,3 +82,8 @@ footer: '*"Your tastilicious sweet soy sauce braised pork! Tender pork, rich
   Serve it with rice for a truly satisfying meal!"*'
 ---
 Sweet soy sauce braised pork is an Indonesian pork dish cooked in delicious, rich sweet soy sauce. Although it originates from Southern Chinese cuisine, sweet soy sauce braised pork has become a favorite in Indonesia thanks to the unique sweetness of the *kecap manis* (Indonesian sweet soy sauce). Typically, pork belly is slowly braised in sweet soy sauce, combined with garlic, shallots, and a little salt, resulting in a warm, fragrant dish perfect for any occasion.
+
+
+
+For 2-3 servings\
+Time: 90 minutes
