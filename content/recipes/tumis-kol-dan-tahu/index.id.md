@@ -62,4 +62,4 @@ footer: >-
 
   *"Dan voila! Tumis kol dan tahu yang super simpel dan enak ini siap kamu nikmati. Rasanya tastilicious banget, cocok buat lauk harian atau sekadar ngemil sehat. Selamat mencoba!"*
 ---
-Kalau lagi bingung mau masak apa, Tumis Kol dan Tahu ini jawabannya! Simpel, sehat, dan pastinya nggak butuh waktu lama buat bikin. Dengan bahan-bahan yang sederhana, kamu bisa bikin hidangan yang rasanya enak dan cocok buat segala suasana. Siap masak? Yuk, langsung coba!
+Kalau lagi bingung mau masak apa, Tumis Kol dan Tahu ini jawabannya! Mudah dibuat, sehat, dan pastinya nggak butuh waktu lama buat bikin. Dengan bahan-bahan yang sederhana, kamu bisa bikin hidangan yang rasanya enak dan cocok buat segala suasana. Siap masak? Yuk, langsung coba!
