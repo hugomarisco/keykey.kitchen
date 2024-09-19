@@ -59,3 +59,8 @@ footer: "*Resep ini bikin jagung manis jadi camilan renyah yang enak banget.
   tastiliciousmu!*"
 ---
 Perkedel jagung adalah camilan lezat yang terinspirasi dari pengaruh kuliner Spanyol dan Portugis. Jagung, yang berasal dari Amerika, diperkenalkan ke Indonesia oleh bangsa Portugis. Dengan kondisi tanah Indonesia yang sangat cocok, jagung menjadi tanaman yang banyak dibudidayakan. Salah satu cara termudah dan paling menggugah selera untuk menikmati jagung adalah dengan membuat perkedel jagung yang renyah ini.
+
+
+
+Untuk 4 porsi\
+Waktu : 20 menit

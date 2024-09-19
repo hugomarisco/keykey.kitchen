@@ -56,3 +56,7 @@ footer: "*This recipe turns sweet corn into a crispy delight that's both savory
   bring a burst of flavor to your table. Enjoy your tastilicious creation!*"
 ---
 Corn fritter is a tasty snack with Spanish and Portuguese influences. Corn, native to the Americas, was introduced to Indonesia by the Portuguese. Thanks to Indonesia’s ideal growing conditions, corn became widely harvested. One of the easiest and most delightful ways to enjoy corn is through these crispy fritters.
+
+\
+For 4 servings\
+Time: 20 minutes
