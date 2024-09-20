@@ -59,7 +59,7 @@ steps:
       then add the cornstarch slurry and stir quickly until the sauce thickens.
       Turn off the heat and set aside."
     image: masak-saus-kinca.jpg
-  - description: Once the Lupis is cooked, remove and let cool. Serve with the
+  - description: Once the Lupis is cooked, remove and let it cool. Serve with the
       coconut coating and palm sugar sauce (Kinca).
     image: sajikan-lupis.jpg
 footer: >-
