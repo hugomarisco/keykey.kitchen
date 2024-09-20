@@ -48,7 +48,7 @@ steps:
       ketan dengan padat ya). Kemudian tutup dengan menggunakan tusuk gigi.
     image: bentuk-segitiga-.jpg
   - description: Siapkan panci dan masukkan air, pasta pandan, dan daun pandan.
-      Kemudian masukkan pupis ke dalam air (banyaknya air disesuaikan hingga
+      Kemudian masukkan lupis ke dalam air (banyaknya air disesuaikan hingga
       lupis benar-benar tenggelam semuanya) dan kemudian nyalakan api. Masak
       hingga matang, sekitar 2 jam.
     image: masak-lupis.jpg
