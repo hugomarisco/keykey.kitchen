@@ -1,7 +1,7 @@
 ---
 title: TEMPE OREK BASAH
 date: 2024-09-15T21:31:00+08:00
-featured_image: masak-tempe.jpg
+featured_image: 1-1-tempe-orek.jpg
 tags:
   - menu pendamping
   - tempe
