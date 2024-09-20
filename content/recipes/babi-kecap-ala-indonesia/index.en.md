@@ -1,7 +1,7 @@
 ---
 title: SWEET  SOY SAUCE BRAISED PORK (Indonesian Style)
 date: 2024-09-16T00:00:00+08:00
-featured_image: sajikan.jpg
+featured_image: 1-1-babi-kecap.jpg
 tags:
   - main dish
   - pork
