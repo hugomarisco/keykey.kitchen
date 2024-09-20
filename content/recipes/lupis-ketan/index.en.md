@@ -8,7 +8,7 @@ tags:
   - Indonesian
 ingredients:
   - name: white glutinous rice
-    amount: 25 grams
+    amount: 250 grams
   - name: slaked lime (food grade) → can be skipped if unavailable
     amount: 1 teaspoon
   - name: salt

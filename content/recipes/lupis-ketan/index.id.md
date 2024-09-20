@@ -8,7 +8,7 @@ tags:
   - Indonesia
 ingredients:
   - name: beras ketan putih
-    amount: 25 gram
+    amount: 250 gram
   - name: kapur sirih → bisa di skip kalau memang tidak ada
     amount: 1 sendok teh
   - name: garam
