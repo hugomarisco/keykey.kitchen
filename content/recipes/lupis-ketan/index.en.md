@@ -56,8 +56,8 @@ steps:
     image: kukus-kelapa-parut.jpg
   - description: "For the palm sugar sauce (Kinca): Combine the grated palm sugar
       with water and pandan leaves. Cook over low heat until the sugar melts,
-      then add the cornstarch solution and stir quickly until the sauce
-      thickens. Turn off the heat and set aside."
+      then add the cornstarch slurry and stir quickly until the sauce thickens.
+      Turn off the heat and set aside."
     image: masak-saus-kinca.jpg
   - description: Once the Lupis is cooked, remove and let cool. Serve with the
       coconut coating and palm sugar sauce (Kinca).
