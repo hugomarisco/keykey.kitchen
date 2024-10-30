@@ -54,5 +54,5 @@ footer: "*Enjoy this spicy, savory treat as a flavorful side dish that keeps you
 ---
 Need a quick and delicious side dish to complement your main meal? This Tempe with Salt and Chili is just perfect! With its savory and spicy flavor and simple ingredients, this dish will make any meal extra special.
 
-Serves: 2-3\
+Serves: 2-3 servings\
 Time: 20 minutes
