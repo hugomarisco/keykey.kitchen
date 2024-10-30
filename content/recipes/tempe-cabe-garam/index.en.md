@@ -5,6 +5,7 @@ featured_image: sajikan-tempe.jpg
 tags:
   - Side dish
   - Tempe
+  - Soybean
   - Indonesian
 ingredients:
   - amount: 1 block

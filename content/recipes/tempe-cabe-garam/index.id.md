@@ -5,6 +5,7 @@ featured_image: sajikan-tempe.jpg
 tags:
   - Makanan pendamping
   - Tempe
+  - Kacang kedelai
   - Indonesia
 ingredients:
   - name: tempe → potong kotak-kotak kira-kira 2 cm x 2 cm
