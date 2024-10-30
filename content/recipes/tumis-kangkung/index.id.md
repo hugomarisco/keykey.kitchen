@@ -50,8 +50,6 @@ footer: >-
   warnanya hijau segar.
 
 
-  \
-
   *Hidangan Tumis Kangkung ini siap memanjakan lidah dengan rasa gurih pedasnya! Mudah dibuat, cepat, dan pastinya bikin nambah selera. Sajikan sekarang, dan rasakan sendiri sensasi tastilicious-nya!*
 ---
 Butuh ide sayuran yang cepat, enak, dan segar? Tumis Kangkung ini pas banget! Rasa gurih dan pedas yang bisa disesuaikan sama selera kamu, hidangan ini cocok sebagai pelengkap untuk semua hidangan utama, apalagi kalau disajikan dengan nasi.
