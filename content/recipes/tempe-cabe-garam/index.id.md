@@ -52,7 +52,9 @@ footer: "*Tempe Cabe Garam siap disantap sebagai pelengkap makanmu! Rasanya yang
   pedas gurih pasti bikin nambah terus. Selamat menikmati, dan tentunya,
   tastilicious!*"
 ---
-*“Butuh lauk cepat dan lezat untuk melengkapi hidangan utama? Tempe Cabe Garam ini pas banget! Dengan rasa pedas gurih dan bahan-bahan sederhana, sajian ini pasti bikin makan jadi makin spesial.”*
+Butuh lauk cepat dan lezat untuk melengkapi hidangan utama? Tempe Cabe Garam ini pas banget! Dengan rasa pedas gurih dan bahan-bahan sederhana, sajian ini pasti bikin makan jadi makin spesial.”
+
+
 
 Untuk 2-3 porsi\
 Waktu : 20 menit
