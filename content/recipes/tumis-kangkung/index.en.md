@@ -33,7 +33,9 @@ ingredients:
     name: "cooking oil "
 steps:
   - description: Trim and wash the water spinach, then set aside.
+    image: kangkung-cuci-bersih.jpg
   - description: Finely slice the shallots, garlic, and red chilies.
+    image: ""
   - description: Heat a little oil and margarine, and sauté the shallots and garlic
       until fragrant.
     image: tumis-bawang.jpg
