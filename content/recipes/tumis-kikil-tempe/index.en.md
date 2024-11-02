@@ -6,7 +6,7 @@ tags:
   - Cow gravel
   - Indonesian
 ingredients:
-  - amount: 200 grams
+  - amount: 250 grams
     name: cow gravel → chopped into smaller pieces as your preference
   - amount: 1 block
     name: tempe →chopped into smaller pieces as your preference
