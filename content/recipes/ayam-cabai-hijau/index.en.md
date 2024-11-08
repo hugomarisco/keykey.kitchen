@@ -33,6 +33,8 @@ ingredients:
     name: salt → 2 teaspoons for boiling the chicken
   - amount: 1 teaspoon
     name: bouillon powder (optional)
+  - amount: ½ teaspoon
+    name: pepper
   - name: sugar
     amount: 1 teaspoon
   - name: water
@@ -48,8 +50,8 @@ steps:
   - description: Grind the shallots, garlic, large green chilies, and small green
       bird's eye chilies using a chopper or mortar and pestle.
   - description: Sauté the ground spices with kaffir lime leaves until fragrant,
-      then add water, salt, sugar, and bouillon powder (if using). Cook until
-      done and taste to ensure the flavor is just right.
+      then add water, salt, sugar, pepper, and bouillon powder (if using). Cook
+      until done and taste to ensure the flavor is just right.
     image: masukkan-daun-jeruk-dan-cabai.jpg
   - description: Add the fried chicken into the chili mixture, stir well, and turn
       off the heat.

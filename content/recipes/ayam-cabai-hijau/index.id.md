@@ -33,6 +33,8 @@ ingredients:
     name: garam → 2 sendok teh untuk merebus ayam
   - amount: 1 sendok teh
     name: kaldu bubuk (opsional)
+  - amount: ½ sendok teh
+    name: lada
   - name: gula pasir
     amount: 1 sendok teh
   - name: air
@@ -47,8 +49,8 @@ steps:
   - description: Haluskan bawang merah, bawang putih, cabai hijau besar, dan cabai
       rawit hijau dengan chopper atau tumbukan.
   - description: Tumis bumbu yang sudah dihaluskan bersama daun jeruk hingga harum,
-      lalu tambahkan air, garam, gula, dan kaldu bubuk (jika menggunakan). Masak
-      hingga matang dan cicipi untuk memastikan rasa sudah pas.
+      lalu tambahkan air, garam, gula, lada, dan kaldu bubuk (jika menggunakan).
+      Masak hingga matang dan cicipi untuk memastikan rasa sudah pas.
     image: masukkan-daun-jeruk-dan-cabai.jpg
   - description: Masukkan ayam yang sudah digoreng ke dalam tumisan cabai, aduk
       rata, dan matikan api.
