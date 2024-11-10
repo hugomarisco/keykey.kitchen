@@ -79,8 +79,8 @@ steps:
       serai hingga harum.
     image: tumis-balado.jpg
   - description: Masukkan air jeruk nipis, garam, gula, lada, kaldu bubuk (jika
-      pakai), dan 10 sdm air rebusan daging.  Masak hingga sambal mengental dan
-      minyak mulai terpisah dari sambal.
+      pakai), dan 10 sendok makan air rebusan daging.  Masak hingga sambal
+      mengental dan minyak mulai terpisah dari sambal.
     image: mengeluarkan-minyak.jpg
   - description: Masukkan daging dan kentang ke dalam sambal, aduk rata hingga bumbu
       meresap.

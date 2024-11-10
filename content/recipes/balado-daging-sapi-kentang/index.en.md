@@ -53,10 +53,10 @@ ingredients:
     name: lemongrass → bruised and tied
   - name: lime → squeeze and use the juice
     amount: "1"
-  - name: 1 teaspoon
-    amount: salt
-  - name: 1 teaspoon
-    amount: pepper
+  - name: salt
+    amount: 1 teaspoon
+  - name: pepper
+    amount: 1 teaspoon
   - amount: 1 teaspoon
     name: sugar
   - amount: 1 teaspoon
