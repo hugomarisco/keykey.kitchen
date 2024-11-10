@@ -99,7 +99,7 @@ footer: >-
 
   * Pakai minyak lebih banyak saat menumis agar sambal tetap lembut dan tidak kering.
 ---
-Siapa sih yang bisa nolak masakan pedas gurih seperti Balado Daging Sapi Kentang? Paduan daging sapi empuk dan kentang goreng yang dibalut sambal balado bikin makan jadi lebih semangat. Yuk, langsung aja kita mulai!
+Balado Daging Sapi Kentang ini cocok banget buat yang suka masakan pedas dan gurih. Paduan daging sapi empuk dan kentang goreng yang dibalut sambal balado bikin makan jadi lebih semangat. Yuk, langsung aja kita mulai!
 
 Untuk: 2-3 porsi\
 Waktu: 50 menit

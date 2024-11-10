@@ -101,7 +101,7 @@ footer: >-
 
   * Use extra oil while sautéing to prevent the sambal from drying out.
 ---
-Who could say no to a spicy and savory dish like Spicy Beef and Potato Balado? Tender beef and crispy potatoes, coated in a flavorful balado sauce, will surely boost your appetite. Let’s get cooking!
+This Balado Beef and Potato dish is perfect for those who love spicy and savory food. Tender beef and crispy potatoes, coated in a flavorful balado sauce, will surely boost your appetite. Let’s get cooking!
 
 For: 2-3 servings\
 Time: 50 minutes
