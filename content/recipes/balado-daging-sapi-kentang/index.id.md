@@ -20,23 +20,23 @@ ingredients:
   - amount: Secukupnya
     name: minyak goreng
   - amount: 1 sendok teh
-    name: ketumbar bubuk (rebusan daging sapi)
+    name: ketumbar bubuk (untuk rebusan daging sapi)
   - amount: 1 sendok teh
-    name: garam (rebusan daging sapi)
+    name: garam (untuk rebusan daging sapi)
   - amount: 1 batang
-    name: serai → geprek dan ikat simpul (rebusan daging sapi)
+    name: serai → geprek dan ikat simpul (untuk rebusan daging sapi)
   - amount: 4 lembar
-    name: daun salam (rebusan daging sapi)
+    name: daun salam (untuk rebusan daging sapi)
   - amount: 4 lembar
-    name: daun jeruk (rebusan daging sapi)
+    name: daun jeruk (untuk rebusan daging sapi)
   - amount: 4 cm
-    name: lengkuas → geprek (rebusan daging sapi)
+    name: lengkuas → geprek (untuk rebusan daging sapi)
   - amount: 2 cm
-    name: jahe → geprek (rebusan daging sapi)
+    name: jahe → geprek (untuk rebusan daging sapi)
   - amount: ½ lembar
-    name: daun kunyit  → jika ada (rebusan daging sapi)
+    name: daun kunyit  → jika ada (untuk rebusan daging sapi)
   - amount: 1000 ml
-    name: air (rebusan daging sapi)
+    name: air (untuk rebusan daging sapi)
   - amount: 5 buah
     name: cabai merah besar
   - amount: 12 buah
