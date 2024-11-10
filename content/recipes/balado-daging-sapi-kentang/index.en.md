@@ -31,8 +31,8 @@ ingredients:
     name: kaffir lime leaves (for the beef broth)
   - name: galangal → bruised (for the beef broth)
     amount: 4 cm
-  - amount: ginger → bruised (for the beef broth)
-    name: 2 cm
+  - amount: 2 cm
+    name: ginger → bruised (for the beef broth)
   - amount: ½
     name: turmeric leaf → optional (for the beef broth)
   - amount: 1000 ml
