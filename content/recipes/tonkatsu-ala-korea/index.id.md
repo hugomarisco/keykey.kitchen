@@ -3,7 +3,7 @@ title: TONKATSU (ala Korea)
 date: 2024-11-22T19:13:00+08:00
 featured_image: sajikan.jpg
 tags:
-  - makanan utama
+  - menu utama
   - babi
   - Jepang
 ingredients:
