@@ -3,7 +3,7 @@ title: BALADO DAGING SAPI KENTANG
 date: 2024-11-11T01:16:00+08:00
 featured_image: sajikan.jpg
 tags:
-  - Makanan pendamping
+  - Makanan utama
   - Sapi
   - Indonesia
 ingredients:

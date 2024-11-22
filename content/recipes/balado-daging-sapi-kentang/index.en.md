@@ -3,7 +3,7 @@ title: SPICY BEEF AND POTATO BALADO
 date: 2024-11-11T01:16:00+08:00
 featured_image: sajikan.jpg
 tags:
-  - Side dish
+  - Main dish
   - Beef
   - Indonesian
 ingredients:
