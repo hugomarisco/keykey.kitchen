@@ -3,8 +3,8 @@ title: STIR-FRIED COW GRAVEL WITH TEMPE
 date: 2024-11-02T15:20:00+08:00
 featured_image: sajikan-dengan-daun-bawang.jpg
 tags:
-  - Side dish
-  - Cow gravel
+  - main dish
+  - cow gravel
   - Indonesian
 ingredients:
   - amount: 250 grams
