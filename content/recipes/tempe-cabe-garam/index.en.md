@@ -3,9 +3,9 @@ title: TEMPE WITH SALT AND CHILI
 date: 2024-10-30T18:03:00+08:00
 featured_image: sajikan-tempe.jpg
 tags:
-  - Side dish
+  - main dish
   - Tempe
-  - Soybean
+  - soybean
   - Indonesian
 ingredients:
   - amount: 1 block

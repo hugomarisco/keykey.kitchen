@@ -3,8 +3,8 @@ title: TEMPE CABE GARAM
 date: 2024-10-30T18:03:00+08:00
 featured_image: sajikan-tempe.jpg
 tags:
-  - Makanan pendamping
-  - Tempe
+  - menu utama
+  - tempe
   - Kacang kedelai
   - Indonesia
 ingredients:
