@@ -3,7 +3,7 @@ title: TUMIS KANGKUNG
 date: 2024-10-30T19:14:00+08:00
 featured_image: sajikan-kangkung.jpg
 tags:
-  - Makanan pendamping
+  - Menu pendamping
   - Sayur
   - Indonesia
 ingredients:
