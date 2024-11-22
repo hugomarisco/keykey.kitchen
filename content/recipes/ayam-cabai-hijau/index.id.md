@@ -3,7 +3,7 @@ title: AYAM CABAI HIJAU
 date: 2024-11-09T00:20:00+08:00
 featured_image: sajikan.jpg
 tags:
-  - Makanan pendamping
+  - Menu utama
   - Ayam
   - Indonesia
 ingredients:

@@ -3,7 +3,7 @@ title: GREEN CHILI CHICKEN
 date: 2024-11-09T00:20:00+08:00
 featured_image: sajikan.jpg
 tags:
-  - Side dish
+  - Main dish
   - Chicken
   - Indonesian
 ingredients:
