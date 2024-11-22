@@ -3,7 +3,7 @@ title: JUKUT KACANG PANJANG DAN TEMPE
 date: 2024-11-08T20:20:00+08:00
 featured_image: sajikan.jpg
 tags:
-  - makanan pendamping
+  - menu pendamping
   - sayur
   - kacang panjang
   - Indonesia
