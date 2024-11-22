@@ -55,14 +55,14 @@ steps:
     image: goreng-daging.jpg
   - description: Lelehkan mentega di wajan dengan api kecil, lalu masukkan tepung
       terigu. Aduk terus hingga warna berubah kecokelatan. Tuang sedikit air
-      jika adonan terlalu kental, kemudian masukkan campuran bumbu saus, lalu
-      aduk hingga mendidih.
+      jika adonan terlalu kental.
+    image: mentega-tepung.jpg
+  - description: Kemudian masukkan campuran bumbu saus, lalu aduk hingga mendidih.
     image: masukkan-bahan-saus.jpg
   - description: "Tambahkan susu cair sedikit demi sedikit sambil terus diaduk
       hingga merata. "
-  - description: Tambahkan garam dan merica, lalu koreksi rasa. Letakkan Tonkatsu di
-      atas piring, tuang saus di atasnya, atau sajikan saus secara terpisah.
-      Nikmati selagi hangat.
+    image: tuang-susu.jpg
+  - description: Tambahkan garam dan merica, lalu koreksi rasa.
   - description: Letakkan Tonkatsu di atas piring, tuang saus di atasnya, atau
       sajikan saus secara terpisah. Nikmati selagi hangat.
     image: sajikan.jpg

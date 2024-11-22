@@ -53,12 +53,14 @@ steps:
   - description: Heat oil in a pan over low heat. Fry the coated beef until it turns
       golden brown. Remove and drain the excess oil.
     image: goreng-daging.jpg
-  - description: Melt the butter in a pan over low heat, then stir in the flour.
+  - description: "Melt the butter in a pan over low heat, then stir in the flour.
       Cook until it turns light brown. If the mixture is too thick, add a little
-      water while stirring continuously. Add the prepared sauce mixture and stir
-      until it comes to a boil.
+      water while stirring continuously. "
+    image: mentega-tepung.jpg
+  - description: Add the prepared sauce mixture and stir until it comes to a boil.
     image: masukkan-bahan-saus.jpg
   - description: Gradually pour in the milk while stirring, ensuring a smooth consistency.
+    image: tuang-susu.jpg
   - description: Season the sauce with salt and pepper to taste, and adjust as necessary.
   - description: Plate the Tonkatsu, drizzle the sauce over it, or serve the sauce
       on the side. Enjoy while warm.
