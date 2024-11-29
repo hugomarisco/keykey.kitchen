@@ -1,11 +1,11 @@
 ---
-title: Spicy Chicken Wings
+title: SPICY CHICKEN WINGS (ala Indonesia)
 date: 2024-11-29T23:17:00+08:00
 featured_image: sajikan.jpg
 tags:
   - hidangan utama
   - ayam
-  - Asia
+  - Indonesia
 ingredients:
   - amount: 500 gram
     name: sayap ayam
