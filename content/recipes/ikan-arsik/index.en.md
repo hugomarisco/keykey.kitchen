@@ -58,14 +58,18 @@ steps:
       water, or grind them using a mortar and pestle.
   - description: Add lemongrass, torch ginger fruit, torch ginger flowers, the
       blended spices, and water into a large pan or wok.
+    image: masukkan-bumbu-dan-air.jpg
   - description: Bring to a boil, then add the fish. Ensure the fish is submerged,
       then season with salt, white pepper, and stock powder.
+    image: masukkan-ikan-mas.jpg
   - description: Cook over medium heat until most of the liquid evaporates, leaving
       just a small amount. Add tofu, yardlong beans, Chinese chives/Japanese
       scallion, and large red chilies.
+    image: masukkan-kacang-panjang-dan-cabe-merah-besar.jpg
   - description: Continue cooking until the liquid is almost fully absorbed and the
       spices are well incorporated into the fish.
   - description: Adjust the seasoning, remove the Arsik from heat, and serve.
+    image: angkat-dan-sajikan.jpg
 footer: >-
   Tips: Arsik fish tastes even better when reheated the next day, as the spices
   have more time to infuse into the fish.

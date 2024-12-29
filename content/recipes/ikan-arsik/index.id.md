@@ -58,13 +58,17 @@ steps:
       dengan sedikit air atau ulekan.
   - description: Masukkan serai, asam cekala, kecombrang, bumbu halus, dan air ke
       dalam wajan atau panci besar.
+    image: masukkan-bumbu-dan-air.jpg
   - description: Masak hingga mendidih, kemudian masukkan ikan ke dalamnya. Pastikan
       ikan terendam, lalu tambahkan garam, merica, dan kaldu bubuk.
+    image: masukkan-ikan-mas.jpg
   - description: Masak di atas api sedang hingga air menyusut dan tersisa sedikit.
       Masukkan tahu, kacang panjang, lokio, dan cabai merah besar.
+    image: masukkan-kacang-panjang-dan-cabe-merah-besar.jpg
   - description: Masak kembali hingga air menyusut sepenuhnya dan bumbu meresap ke
       dalam ikan.
   - description: Koreksi rasa, angkat ikan arsik dan sajikan.
+    image: angkat-dan-sajikan.jpg
 footer: >-
   Tips: Ikan arsik akan terasa lebih nikmat jika dipanaskan kembali keesokan
   harinya, karena bumbunya semakin meresap.
