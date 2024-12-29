@@ -1,5 +1,5 @@
 ---
-title: ARSIK FISH
+title: BATAK-STYLE ARSIK FISH
 date: 2024-12-29T18:59:00+07:00
 featured_image: angkat-dan-sajikan.jpg
 tags:
