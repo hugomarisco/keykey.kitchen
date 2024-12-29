@@ -1,11 +1,25 @@
 ---
 title: IKAN ARSIK
-date: 2024-12-29T18:53:00+07:00
+date: 2024-12-29T18:59:00+07:00
 featured_image: angkat-dan-sajikan.jpg
 tags:
   - Menu Utama
   - Ikan Mas
   - Indonesia
+steps:
+  - description: Cuci bersih ikan mas, lalu potong sesuai selera.
+  - description: Haluskan cabai merah keriting, cabai rawit, bawang merah, bawang
+      putih, kunyit, jahe, lengkuas, andaliman, dan kemiri menggunakan blender
+      dengan sedikit air atau ulekan.
+  - description: Masukkan serai, asam cekala, kecombrang, bumbu halus, dan air ke
+      dalam wajan atau panci besar.
+  - description: Masak hingga mendidih, kemudian masukkan ikan ke dalamnya. Pastikan
+      ikan terendam, lalu tambahkan garam, merica, dan kaldu bubuk.
+  - description: Masak di atas api sedang hingga air menyusut dan tersisa sedikit.
+      Masukkan tahu, kacang panjang, lokio, dan cabai merah besar.
+  - description: Masak kembali hingga air menyusut sepenuhnya dan bumbu meresap ke
+      dalam ikan.
+  - description: Koreksi rasa, angkat ikan arsik dan sajikan.
 footer: >-
   Tips: Ikan arsik akan terasa lebih nikmat jika dipanaskan kembali keesokan
   harinya, karena bumbunya semakin meresap.
