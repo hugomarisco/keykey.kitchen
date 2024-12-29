@@ -6,6 +6,51 @@ tags:
   - Menu Utama
   - Ikan Mas
   - Indonesia
+ingredients:
+  - name: ikan mas
+    amount: 2 ½ kg
+  - amount: 3 sendok makan
+    name: andaliman
+  - amount: 30 buah
+    name: cabai merah keriting
+  - amount: 20 buah
+    name: cabai rawit merah
+  - amount: 20 butir
+    name: bawang merah
+  - amount: 10 siung
+    name: bawang putih
+  - amount: 12 cm
+    name: jahe
+  - amount: 12 cm
+    name: lengkuas
+  - amount: 15 cm
+    name: kunyit
+  - amount: "14 butir "
+    name: kemiri
+  - amount: 5 batang
+    name: serai → memarkan
+  - amount: 4 buah
+    name: kincung (kecombrang) → belah menjadi 2 bagian
+  - amount: 10 lembar
+    name: asam gelugur
+  - amount: 10 buah
+    name: asam cekala (buah kecombrang) → memarkan
+  - amount: 250 gram
+    name: kacang panjang → potong sekitar 8 cm
+  - amount: 200 gram
+    name: lokio
+  - amount: 1 ½ liter
+    name: air
+  - amount: 4 buah
+    name: tahu kuning → belah jadi dua bagian
+  - amount: 2 sendok teh
+    name: merica
+  - amount: 3 buah
+    name: cabai merah besar → belah menjadi dua bagian
+  - amount: Secukupnya
+    name: garam
+  - amount: Secukupnya
+    name: kaldu bubuk
 steps:
   - description: Cuci bersih ikan mas, lalu potong sesuai selera.
   - description: Haluskan cabai merah keriting, cabai rawit, bawang merah, bawang

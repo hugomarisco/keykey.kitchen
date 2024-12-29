@@ -6,6 +6,51 @@ tags:
   - Main Dish
   - Carp Fish
   - Indonesian
+ingredients:
+  - name: carp fish → or any freshwater fish you can find
+    amount: 2 ½ kg
+  - name: andaliman → Sichuan pepper
+    amount: "3 tablespoon "
+  - name: curly red chilies
+    amount: "30"
+  - name: bird’s eye chilies
+    amount: "20"
+  - name: shallots
+    amount: "20"
+  - name: garlic
+    amount: 10 cloves
+  - name: ginger
+    amount: 12 cm
+  - name: galangal
+    amount: 12 cm
+  - name: turmeric
+    amount: 15 cm
+  - name: candlenuts
+    amount: "14"
+  - name: lemongrass → bruised
+    amount: 5 stalks
+  - name: ginger flowers (kecombrang) → halved
+    amount: 4 torch
+  - name: dried sour fruit (asam gelugur)
+    amount: 10 slices
+  - name: torch ginger fruit (asam cekala) → bruised
+    amount: 10 pieces
+  - name: yardlong beans → cut into 8 cm pieces
+    amount: 250 grams
+  - name: Chinese chives/Japanese scallion → cleaned and kept long
+    amount: 200 grams
+  - name: water
+    amount: 1.5 liters
+  - name: tofu → halved
+    amount: 4 pieces
+  - amount: 2 teaspoons
+    name: pepper
+  - amount: 3 large
+    name: red chilies → halved lengthwise
+  - amount: As needed
+    name: salt
+  - amount: As needed
+    name: bouillon powder
 steps:
   - description: Clean the carp thoroughly and cut it into desired sizes.
   - description: Blend curly red chilies, bird’s eye chilies, shallots, garlic,
