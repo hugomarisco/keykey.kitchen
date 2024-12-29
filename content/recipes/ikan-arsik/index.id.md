@@ -70,9 +70,8 @@ steps:
   - description: Koreksi rasa, angkat ikan arsik dan sajikan.
     image: angkat-dan-sajikan.jpg
 footer: >-
-  Tips: Ikan arsik akan terasa lebih nikmat jika dipanaskan kembali keesokan
+  **Tips:** Ikan arsik akan terasa lebih nikmat jika dipanaskan kembali keesokan
   harinya, karena bumbunya semakin meresap.
-
 
 
   Nikmati kelezatan ikan arsik yang penuh cita rasa khas Sumatra Utara. Dengan perpaduan bumbu rempah yang melimpah, setiap suapan akan membuatmu merasa lebih dekat dengan budaya Batak. Jangan lupa, arsik ini makin tastilicious saat disantap bersama keluarga!

@@ -71,8 +71,8 @@ steps:
   - description: Adjust the seasoning, remove the Arsik from heat, and serve.
     image: angkat-dan-sajikan.jpg
 footer: >-
-  Tips: Arsik fish tastes even better when reheated the next day, as the spices
-  have more time to infuse into the fish.
+  **Tips:** Arsik fish tastes even better when reheated the next day, as the
+  spices have more time to infuse into the fish.
 
 
   Enjoy the bold and rich flavors of this iconic North Sumatran dish. With its abundance of fragrant spices, every bite will bring you closer to the Batak heritage. Don’t forget, this dish becomes even more tastilicious when shared with family!
