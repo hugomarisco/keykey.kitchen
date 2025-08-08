@@ -361,7 +361,7 @@
 
 				<!-- Instagram Order -->
 				<a
-					href="https://instagram.com/keykeykitchen"
+					href="https://instagram.com/keykey.kitchen"
 					class="group flex flex-col rounded-2xl border border-gray-200 bg-white p-6 transition-all hover:border-teal-200 hover:shadow-lg active:scale-95"
 				>
 					<div class="mb-4 flex items-center">
